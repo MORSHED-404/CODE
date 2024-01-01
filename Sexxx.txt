@@ -1,1 +1,1 @@
-[FBAN/FBW;FBAV/93.0.0.64.0;FBBV/62624619;FBDV/WindowsDevice;FBMD/Inspiron 3650;FBSN/Windows;FBSV/10.0.15063.540;FBSS/1;FBCR/Airtel;FBID/desktop;FBLC/en_US;FBOP/45;FBRV/0]\n
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 [ip:91.205.230.197]
